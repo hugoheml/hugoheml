@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: Discord (Hugo.)
+- 📫 How to reach me: Discord (hugoheml)
 
 #### Programming languages
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
